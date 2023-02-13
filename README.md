@@ -1,2 +1,3 @@
-###HAMILTON OSMIN CALLEJAS CALLEJAS  NO. 23003571
+HAMILTON OSMIN CALLEJAS CALLEJAS  NO. 23003571
+
 Utilice la licencia de MOZILLA PUBLIC LICENSE 2.0 ya que aparte de cumplir con las libertades propias del software libre, se diferencia por permitir que el software sea reutilizado, aunque no libremente  por el usuario que lo desee. Es decir, desaparece la restricción de reutilizar el código fuente y la de volver a licenciar bajo una misma licencia y al igual por su funcion principal que es  la de licencia de control para el navegador Mozilla y el software relacionado con él, tambien es una de las mas empleadas para que los programadores que tienen el fin de liberar su codigo. 
